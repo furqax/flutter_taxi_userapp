@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="129" viewBox="0 0 205 129">
+  <g id="Group_12029" data-name="Group 12029" transform="translate(-112 -248)">
+    <g id="Group_11844" data-name="Group 11844" transform="translate(-3891 -3942)">
+      <path id="Rectangle_234" data-name="Rectangle 234" d="M0,0H205a0,0,0,0,1,0,0V89a12,12,0,0,1-12,12H12A12,12,0,0,1,0,89V0A0,0,0,0,1,0,0Z" transform="translate(4003 4218)" fill="#fde5d9"/>
+      <path id="Rectangle_19048" data-name="Rectangle 19048" d="M12,0H193a12,12,0,0,1,12,12V34a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" transform="translate(4003 4190)" fill="#f36e2c"/>
+      <rect id="Rectangle_19049" data-name="Rectangle 19049" width="63" height="80" transform="translate(4017 4232)" fill="#f36e2c" opacity="0.57"/>
+      <rect id="Rectangle_19050" data-name="Rectangle 19050" width="10" height="14" transform="translate(4087 4232)" fill="#f36e2c" opacity="0.67"/>
+      <rect id="Rectangle_19050-2" data-name="Rectangle 19050" width="95" height="14" transform="translate(4101 4232)" fill="#f36e2c"/>
+      <rect id="Rectangle_19050-3" data-name="Rectangle 19050" width="10" height="13" transform="translate(4087 4249)" fill="#f36e2c" opacity="0.67"/>
+      <rect id="Rectangle_19050-4" data-name="Rectangle 19050" width="95" height="13" transform="translate(4101 4249)" fill="#fff"/>
+      <rect id="Rectangle_19050-5" data-name="Rectangle 19050" width="10" height="14" transform="translate(4087 4265)" fill="#f36e2c" opacity="0.67"/>
+      <rect id="Rectangle_19050-6" data-name="Rectangle 19050" width="41" height="14" transform="translate(4101 4265)" fill="#fff"/>
+      <rect id="Rectangle_19053" data-name="Rectangle 19053" width="41" height="14" transform="translate(4155 4265)" fill="#fff"/>
+      <rect id="Rectangle_19051" data-name="Rectangle 19051" width="41" height="14" transform="translate(4101 4281)" fill="#fff"/>
+      <rect id="Rectangle_19050-7" data-name="Rectangle 19050" width="10" height="14" transform="translate(4087 4281)" fill="#f36e2c" opacity="0.67"/>
+      <rect id="Rectangle_19050-8" data-name="Rectangle 19050" width="10" height="13" transform="translate(4087 4298)" fill="#f36e2c" opacity="0.67"/>
+      <rect id="Rectangle_19050-9" data-name="Rectangle 19050" width="10" height="13" transform="translate(4132 4298)" fill="#fff"/>
+      <rect id="Rectangle_19052" data-name="Rectangle 19052" width="28" height="13" transform="translate(4101 4298)" fill="#fff"/>
+      <path id="Icon_ionic-md-person" data-name="Icon ionic-md-person" d="M22.188,22.188a8.844,8.844,0,1,0-8.844-8.844A8.87,8.87,0,0,0,22.188,22.188Zm0,4.422C16.329,26.61,4.5,29.6,4.5,35.454v4.422H39.876V35.454C39.876,29.6,28.047,26.61,22.188,26.61Z" transform="translate(4026.357 4246.929)" fill="#fff"/>
+      <g id="Group_11843" data-name="Group 11843" transform="translate(4167.286 4281.429)">
+        <circle id="Ellipse_37" data-name="Ellipse 37" cx="10" cy="10" r="10" transform="translate(4.714 4.571)" fill="#f36e2c"/>
+        <g id="Ellipse_39" data-name="Ellipse 39" transform="translate(-0.286 -0.429)" fill="none" stroke="#f36e2c" stroke-width="1">
+          <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+          <circle cx="14.5" cy="14.5" r="14" fill="none"/>
+        </g>
+        <g id="Ellipse_38" data-name="Ellipse 38" transform="translate(1.714 2.571)" fill="none" stroke="#f36e2c" stroke-width="1" stroke-dasharray="6">
+          <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+          <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+        </g>
+      </g>
+      <path id="Path_1708" data-name="Path 1708" d="M4205.6,4334.727s12.112-.857,4.845-12.309,2.643,9.029,0,20.041-8.369,1.761-4.845-1.763,4.624,11.452,10.57,6.607-.661-13.7,10.791-12.577,6.387-7.244,6.387-7.244-38.759,19.82-34.575,14.976,32.373-1.763,32.373-1.763" transform="translate(-45.845 -37.616)" fill="none" stroke="#000" stroke-width="0.5"/>
+    </g>
+    <text id="DRIVER_S_LICENSE" data-name="DRIVER&apos;S LICENSE" transform="translate(153 272)" fill="#fff" font-size="15" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">DRIVER&apos;S LICENSE</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "45d93f0d-3fdd-4bdc-ad1e-981d92d33a44",
+    "colId": "history",
+    "containerId": "",
+    "name": "'https://jumpi.app/public/api/v1/types/259f1826-1ca2-47a1-a81d-d7873b678088",
+    "url": "'https://jumpi.app/public/api/v1/types/259f1826-1ca2-47a1-a81d-d7873b678088",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-16T12:30:43.475Z",
+    "modified": "2022-12-16T12:30:43.475Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]

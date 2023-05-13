@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.314" height="104.283" viewBox="0 0 111.314 104.283">
+  <g id="Group_12036" data-name="Group 12036" transform="translate(-159 -216)">
+    <g id="Group_11938" data-name="Group 11938" transform="translate(7.253 -26)">
+      <path id="Path_account-circle" data-name="Path / account-circle" d="M54.123,91.652A37.7,37.7,0,0,1,22.849,74.973C23.006,64.548,43.7,58.815,54.123,58.815S85.241,64.548,85.4,74.973A37.7,37.7,0,0,1,54.123,91.652m0-74.015A15.637,15.637,0,1,1,38.486,33.274,15.637,15.637,0,0,1,54.123,17.637M54.123,2a52.123,52.123,0,1,0,52.123,52.123A52.123,52.123,0,0,0,54.123,2Z" transform="translate(149.747 240.036)" fill="#e4e4e4"/>
+      <path id="Path_1738" data-name="Path 1738" d="M16.077,0A16.215,16.215,0,0,1,32.154,16.35,16.215,16.215,0,0,1,16.077,32.7,16.215,16.215,0,0,1,0,16.35,16.215,16.215,0,0,1,16.077,0Z" transform="translate(230.908 242)"/>
+      <g id="MDI_pencil" data-name="MDI / pencil" transform="translate(238.289 247.68)">
+        <g id="Boundary" fill="#f36e2c" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+          <rect width="20.095" height="20.095" stroke="none"/>
+          <rect x="0.5" y="0.5" width="19.095" height="19.095" fill="none"/>
+        </g>
+        <path id="Path_pencil" data-name="Path / pencil" d="M17.828,6.382a.834.834,0,0,0,0-1.181L15.869,3.242a.834.834,0,0,0-1.181,0L13.148,4.775l3.14,3.14M3,14.931v3.14H6.14L15.4,8.8l-3.14-3.14Z" transform="translate(-0.488 -0.485)" fill="#f36e2c"/>
+      </g>
+    </g>
+  </g>
+</svg>

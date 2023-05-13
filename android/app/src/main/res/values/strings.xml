@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gotaxiuserapp</string>
+
+    <string name="facebook_app_id">2350236538460253</string>
+<string name="facebook_client_token">89a6d124df68229388e022050b6fdd1a</string>
+
+
+    <string name="fb_login_protocol_scheme">fb2350236538460253</string>
+</resources>
